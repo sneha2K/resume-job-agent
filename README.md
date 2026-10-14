@@ -136,7 +136,3 @@ These are example queries illustrating the intended use of the agent.
 **Sneha Karri**
 
 GitHub: [sneha2K](https://github.com/sneha2K)
-
-## License
-
-No license has been specified for this project.
